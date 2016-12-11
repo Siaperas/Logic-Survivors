@@ -15,4 +15,5 @@ limitations of the framework.
 
 ##Prerequisites
 XSB: http://xsb.sourceforge.net/
+
 InterProlog: http://interprolog.com/java-bridge/
